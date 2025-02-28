@@ -84,12 +84,12 @@
       "playTimelines": [
         [
           1740756463,
-          1740756830,
-          198
+          1740757423,
+          260
         ]
       ],
       "expectedPlayHours": 34.2,
-      "lastPlay": 1740756830000,
+      "lastPlay": 1740757423000,
       "createDate": 1740753782982,
       "releaseDate": 1256860800000,
       "rating": 7.7,
@@ -130,6 +130,69 @@
       ],
       "cover": "https://t.vndb.org/cv/40/95140.jpg",
       "title": "Mashiro-iro Symphony"
+    },
+    {
+      "id": "4da41ed2-1a37-4c3b-aaf2-8d12c6bbeb3c",
+      "vndbId": "v37651",
+      "updateDate": 1740757797.115,
+      "alias": [
+        "Mashiroiro Symphony HD -Sana Edition-",
+        "ましろ色シンフォニー SANA EDITION",
+        "纯白交响曲 SANA EDITION",
+        "純白交響曲 SANA EDITION"
+      ],
+      "description": "Inui Sana is a young lady who can’t admit her feelings.\n\nLuckily, she doesn’t have to at Yuihime Girls Private Academy, the place where she spends fun-filled days with her precious friends and the senior she loves.\nOr at least, that’s how things have always been...\n\nNow, her comfy and prestigious school is being merged with the boys’ school from the upstart side of town! Shoved into a combined class to trial the new system, she finds her world changing faster than she can keep up—and one of her new classmates makes her heart beat faster too. Quicker and quicker, the changes pile up, altering the landscape of her life like a sudden snowfall...\n\nA new love story is about to begin.\n\n[From [url=https://store.steampowered.com/app/2737980/Mashiroiro_Symphony_HD_Sana_Edition/]Steam[/url]]\n\nThe standalone game of [url=/c5103]Inui Sana[/url]'s route that was first included in the [url=/r11601]console edition[/url] of the Mashiro-iro Symphony. In addition, newly written scenes, new CGs, as well as H scenes are also added.",
+      "tags": [
+        "ADV",
+        "Male Protagonist",
+        "Only a Single Heroine",
+        "Animals",
+        "Pure Love Story",
+        "Other Perspectives",
+        "Kinetic Novel",
+        "Long Sexual Scenes",
+        "Heroine with Ahoge",
+        "Only Good Endings",
+        "Student Club Member Heroine",
+        "Student Club Member Protagonist",
+        "Heroine with a Fang",
+        "Read Text Marking",
+        "Half-orphan Heroine",
+        "Gentle Protagonist",
+        "Classic Tsundere Heroine",
+        "Only Virgin Heroines",
+        "High School Student Protagonist",
+        "Backlog Jump",
+        "High School Student Heroine",
+        "Sex with Protagonist Only",
+        "Heroine with Small Breasts (Non-Loli)",
+        "Brother Support Character",
+        "Low Sexual Content",
+        "Protagonist's Sister as a Support Character",
+        "Protagonist with a Face",
+        "Defloration",
+        "Winter",
+        "Group of Friends"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 15.5,
+      "lastPlay": 0,
+      "createDate": 1740757797115,
+      "releaseDate": 1687478400000,
+      "rating": 8.3,
+      "developer": "Palette",
+      "images": [
+        "https://t.vndb.org/sf/41/180841.jpg",
+        "https://t.vndb.org/sf/42/180842.jpg",
+        "https://t.vndb.org/sf/43/180843.jpg",
+        "https://t.vndb.org/sf/44/180844.jpg",
+        "https://t.vndb.org/sf/46/180946.jpg",
+        "https://t.vndb.org/sf/47/180947.jpg",
+        "https://t.vndb.org/sf/28/195128.jpg"
+      ],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/43/68843.jpg",
+      "title": "Mashiro-iro Symphony: Sana Edition"
     }
   ]
 }
