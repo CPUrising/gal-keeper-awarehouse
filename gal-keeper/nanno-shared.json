@@ -276,6 +276,85 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/67/73/309734_AMQ17.jpg",
       "title": "うみねこのなく頃に散 episode8 - Twilight of the golden witch"
+    },
+    {
+      "id": "31ade9a9-eafd-4b6a-a609-8bcc1d9c4363",
+      "vndbId": "v22045",
+      "updateDate": 1740840233.764,
+      "alias": [
+        "かりぐらし恋愛",
+        "寄宿之恋"
+      ],
+      "description": "Takuma had many fond memories of the town where he used to live as a child and he wished to return there one day. He worked hard to pass the entrance exam for the only school in the town and successfully achieved his long-cherished dream!\n\nHe moved back to the town for a new start, planning on living by himself in his childhood home, but it was in such a dilapidated state that it was essentially uninhabitable. Without the money to look for a temporary residence, Takuma was at a loss as to what to do.\n\nFortunately, his childhood friends came to his rescue! While he couldn’t live with them forever, he was welcomed to stay in the four families’ homes on a rotation system. One of them strongly objected to it, but she was persuaded in the end. Thus begins a very peculiar ‘revolving temporary residency life’.\n\n[From [url=https://omochikaeri.wordpress.com/2018/03/15/march-2018-eroge-releases/]Hau~ Omochikaeri[/url]]",
+      "tags": [
+        "Comedy",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Under the Same Roof",
+        "Airhead Heroine",
+        "Classic Tsundere Heroine",
+        "Group of Friends",
+        "Lazy Heroine",
+        "ADV",
+        "High School",
+        "Male Protagonist",
+        "Multiple Endings",
+        "Father Support Character",
+        "Mother Support Character",
+        "Brother Support Character",
+        "Deredere Heroine",
+        "Family",
+        "Homecoming",
+        "Donkan Protagonist",
+        "Protagonist's Kouhai as a Heroine",
+        "Breaking the Fourth Wall",
+        "Tsundere Heroine",
+        "Branching Plot",
+        "Protagonist with a Face",
+        "Defloration",
+        "Twin Tail Heroine",
+        "Single Footjob",
+        "High School Student Heroine",
+        "Super Deformed CGs"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 19,
+      "lastPlay": 0,
+      "createDate": 1740840233764,
+      "releaseDate": 1522368000000,
+      "rating": 7.5,
+      "developer": "ASa Project",
+      "images": [
+        "https://t.vndb.org/sf/89/111189.jpg",
+        "https://t.vndb.org/sf/90/111190.jpg",
+        "https://t.vndb.org/sf/91/111191.jpg",
+        "https://t.vndb.org/sf/92/111192.jpg",
+        "https://t.vndb.org/sf/93/111193.jpg",
+        "https://t.vndb.org/sf/94/111194.jpg",
+        "https://t.vndb.org/sf/95/111195.jpg",
+        "https://t.vndb.org/sf/96/111196.jpg",
+        "https://t.vndb.org/sf/97/111197.jpg",
+        "https://t.vndb.org/sf/98/111198.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/かりぐらし恋愛"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q51164338",
+          "name": "wikidata"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/kari-gurashi-renai"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/kari-gurashi-renai"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/21/89121.jpg",
+      "title": "Karigurashi Ren'ai"
     }
   ]
 }
