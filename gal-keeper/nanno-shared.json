@@ -194,9 +194,15 @@
         "Winter",
         "Group of Friends"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740837633,
+          1740837725,
+          91
+        ]
+      ],
       "expectedPlayHours": 15.5,
-      "lastPlay": 0,
+      "lastPlay": 1740837725000,
       "createDate": 1740757797115,
       "releaseDate": 1687478400000,
       "rating": 8.3,
