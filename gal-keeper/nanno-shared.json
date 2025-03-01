@@ -219,6 +219,58 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/43/68843.jpg",
       "title": "Mashiro-iro Symphony: Sana Edition"
+    },
+    {
+      "id": "cbbcde40-6f67-414f-af14-c076f8d43309",
+      "bgmId": "309734",
+      "updateDate": 1740837858.624,
+      "alias": [
+        "海猫鸣泣之时散 episode8 - Twilight of the golden witch"
+      ],
+      "description": "本条目为episode8章节条目。\r\n\r\n《海猫鸣泣之时散 episode8 - Twilight of the golden witch》是日本同人社团07th Expansion所制作的同人游戏《海猫鸣泣之时》的第八作和该系列的完结篇[1]。游戏于2010年冬季的Comic Market79发表。\r\n\r\n本集是同一系列中唯一设有选择支和小游戏的作品，并对前一章未解的谜题作出最终暗示。\r\n\r\n缘寿已因为真相的问题陷入极大困扰，上位战人在此时来到，表示六轩岛当天其实很和平，没有发生黑暗的惨剧……就当一切快乐平凡的事随着夜色来到而结束，上位世界的所有灵魂和魔法人物聚首一堂，为自己的一套真相交战……鸣泣的故事，即将完结？",
+      "tags": [
+        "アルケミスト",
+        "16+",
+        "金发",
+        "07thExpansion",
+        "GAL",
+        "游戏",
+        "神作",
+        "Windows",
+        "治愈",
+        "海猫鸣泣之时",
+        "烂尾",
+        "全年龄",
+        "AVG",
+        "催泪",
+        "意识流",
+        "2010",
+        "8+",
+        "S级",
+        "PC",
+        "解谜",
+        "悬疑",
+        "推理",
+        "竜騎士07",
+        "Galgame"
+      ],
+      "playTimelines": [
+        [
+          1740837863,
+          1740838028,
+          147
+        ]
+      ],
+      "expectedPlayHours": 0,
+      "lastPlay": 1740838028000,
+      "createDate": 1740837858624,
+      "releaseDate": 1293753600000,
+      "rating": 8.2,
+      "developer": "",
+      "images": [],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/67/73/309734_AMQ17.jpg",
+      "title": "うみねこのなく頃に散 episode8 - Twilight of the golden witch"
     }
   ]
 }
