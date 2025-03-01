@@ -316,9 +316,15 @@
         "High School Student Heroine",
         "Super Deformed CGs"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740840315,
+          1740840906,
+          580
+        ]
+      ],
       "expectedPlayHours": 19,
-      "lastPlay": 0,
+      "lastPlay": 1740840906000,
       "createDate": 1740840233764,
       "releaseDate": 1522368000000,
       "rating": 7.5,
