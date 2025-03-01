@@ -41,7 +41,7 @@
     {
       "id": "d55ec6c8-63d3-4c5b-8e1a-df4b12da81cc",
       "vndbId": "v1552",
-      "updateDate": 1740753782.982,
+      "updateDate": 1740789409.51,
       "alias": [
         "Mashiroiro Symphony HD -Love is Pure White-",
         "ましろ色シンフォニー",
@@ -86,10 +86,15 @@
           1740756463,
           1740757423,
           260
+        ],
+        [
+          1740812252,
+          1740812690,
+          435
         ]
       ],
       "expectedPlayHours": 34.2,
-      "lastPlay": 1740757423000,
+      "lastPlay": 1740812690000,
       "createDate": 1740753782982,
       "releaseDate": 1256860800000,
       "rating": 7.7,
@@ -129,7 +134,7 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/40/95140.jpg",
-      "title": "Mashiro-iro Symphony"
+      "title": "纯白交响曲"
     },
     {
       "id": "4da41ed2-1a37-4c3b-aaf2-8d12c6bbeb3c",
