@@ -319,12 +319,12 @@
       "playTimelines": [
         [
           1740840315,
-          1740843471,
-          2920
+          1740843991,
+          3435
         ]
       ],
       "expectedPlayHours": 19,
-      "lastPlay": 1740843471000,
+      "lastPlay": 1740843991000,
       "createDate": 1740840233764,
       "releaseDate": 1522368000000,
       "rating": 7.5,
