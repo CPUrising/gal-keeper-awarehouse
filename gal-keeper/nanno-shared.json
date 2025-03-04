@@ -361,6 +361,93 @@
       ],
       "cover": "https://t.vndb.org/cv/21/89121.jpg",
       "title": "Karigurashi Ren'ai"
+    },
+    {
+      "id": "d3a9bf6b-f6f4-4fe4-8643-da3eed68f48e",
+      "vndbId": "v31055",
+      "updateDate": 1741059333.117,
+      "alias": [
+        "ヘンタイ・プリズン"
+      ],
+      "description": "-\"Tulip Prison\"\nThis is where the worst of the worst, the ones deemed \"beyond redemption,\" are locked up. The legendary Ninth Correctional Precinct was an inescapable fortress, constructed on a remote island far out in the open seas.\n\nOnce upon a time, in the bustling metropolis of Tokyo, there lived an eccentric young man named Minato Shuuichirou. He was infamous among law enforcement as the \"Flasher.\" Shuuichirou absolutely loathed the idea of clothing, and being stark naked was just second nature to him.\n\nHe was a daredevil who lived life on the edge, never hesitating to put his neck on the line time and time again. Then, one fateful sunny day, his luck ran out, and he was arrested for public indecency and obstruction of justice.\n\nIn court, he passionately defended his actions, claiming his brazen exhibitions were a form of art. Nonetheless, his arguments landed with a thud, as the bewildered listeners couldn't wrap their heads around such an offbeat perspective. He was ultimately convicted of assaulting a police officer and multiple counts of indecent exposure, earning him a 10-year sentence filled with back-breaking labor.\n\nTo make matters worse, he was considered \"beyond rehabilitation\" and banished to the notorious Tulip Prison.\n\nCan this daring exhibitionist make it in a prison packed with shady characters? This institution, ominously nicknamed \"HENTAI,\" is anything but a picnic for the unlucky folks stuck inside.\n\n[Translated and edited from [url=https://qruppo.com/products/henpri/]official website[/url]]",
+      "tags": [
+        "ADV",
+        "Battle of Wits",
+        "Protagonist with a Face",
+        "Prison",
+        "Nun Support Character",
+        "Sex Cult",
+        "Major Antagonist",
+        "Confinement",
+        "Pure Love Story",
+        "Only Virgin Heroines",
+        "Rebellion",
+        "Fictional Modern Day Japanese Island",
+        "Comedic Sex Scenes",
+        "Scenario Selection",
+        "Genius Heroine",
+        "Protagonist with Multiple Personalities",
+        "Intrigue",
+        "Yakuza Heroine",
+        "Twin Tail Heroine",
+        "Normal Scene Recollection",
+        "Pragmatic Protagonist",
+        "Heroine with Pubic Hair",
+        "Pragmatic Heroine",
+        "Heroine with Small Breasts (Non-Loli)",
+        "One True End",
+        "Heroine with Heterochromia",
+        "Bald Protagonist",
+        "Protagonist with a Sprite",
+        "Male Protagonist",
+        "Leader Protagonist"
+      ],
+      "playTimelines": [
+        [
+          1741059345,
+          1741059901,
+          553
+        ]
+      ],
+      "expectedPlayHours": 60,
+      "lastPlay": 1741059901000,
+      "createDate": 1741059333117,
+      "releaseDate": 1643328000000,
+      "rating": 8.5,
+      "developer": "Qruppo",
+      "images": [
+        "https://t.vndb.org/sf/72/162172.jpg",
+        "https://t.vndb.org/sf/73/162173.jpg",
+        "https://t.vndb.org/sf/74/162174.jpg",
+        "https://t.vndb.org/sf/75/162175.jpg",
+        "https://t.vndb.org/sf/76/162176.jpg",
+        "https://t.vndb.org/sf/77/162177.jpg",
+        "https://t.vndb.org/sf/79/162179.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q110072006"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/329778-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=108136"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/hentai-prison"
+        },
+        {
+          "url": "https://lutris.net/games/hentai-prison",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/62/88262.jpg",
+      "title": "Hentai Prison"
     }
   ]
 }
