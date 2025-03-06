@@ -468,6 +468,86 @@
       ],
       "cover": "https://t.vndb.org/cv/62/88262.jpg",
       "title": "Hentai Prison"
+    },
+    {
+      "id": "0807dc53-940e-41ad-9fe0-ada4e586973f",
+      "vndbId": "v17516",
+      "updateDate": 1741154615.499,
+      "alias": [
+        "恋×シンアイ彼女",
+        "想要传达给你的爱恋",
+        "想要傳達給你的愛戀"
+      ],
+      "description": "Kunimi Koutarou is a second-year student at Mikagegaoka Gakuen who is part of the literature club. He dreams of becoming a novelist, but he is unable to write a romance novel because of a first love trauma when he was small.\n\nThis spring, Mikagegaoka Gakuen was merged with two other schools, Sakuradai Gakuen and Mikagegaoka Nishi Gakuen. Koutarou found himself sitting in between Sena, his former love who had moved away, and Ayane, his best friend a few years ago who hadn’t talked to him since a certain incident.\n\nNow his regular days suddenly turn into those like you would only see in romance novels...\n\n[From [url=https://omochikaeri.wordpress.com/2015/10/01/october-2015-eroge-releases/]Hau~ Omochikaeri![/url]]",
+      "tags": [
+        "Multiple Endings",
+        "Early Branching Plot",
+        "One True End",
+        "Coming-of-Age Drama",
+        "Unlockable Routes",
+        "Passage of Time",
+        "Open Ending(s)",
+        "Unrequited Love",
+        "High School Student Protagonist",
+        "Betrayal",
+        "Central Heroine",
+        "Varied Title Screens",
+        "Parting Ending",
+        "Romance",
+        "High School",
+        "Pure Love Story",
+        "Slice of Life Drama",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Male Protagonist",
+        "Musician Heroine",
+        "Flashback",
+        "Protagonist with Partial Voice Acting",
+        "Writer Protagonist",
+        "Drama",
+        "Protagonist with a Face",
+        "Protagonist's Sister as a Support Character",
+        "Protagonist's Kouhai as a Heroine",
+        "Protagonist's Senpai as a Heroine",
+        "ADV",
+        "Kuudere Heroine"
+      ],
+      "playTimelines": [
+        [
+          1741154623,
+          1741154779,
+          149
+        ]
+      ],
+      "expectedPlayHours": 30,
+      "lastPlay": 1741154779000,
+      "createDate": 1741154615499,
+      "releaseDate": 1446163200000,
+      "rating": 7.5,
+      "developer": "Us:track",
+      "images": [
+        "https://t.vndb.org/sf/03/90103.jpg",
+        "https://t.vndb.org/sf/04/90104.jpg",
+        "https://t.vndb.org/sf/05/90105.jpg",
+        "https://t.vndb.org/sf/06/90106.jpg",
+        "https://t.vndb.org/sf/13/91113.jpg",
+        "https://t.vndb.org/sf/14/91114.jpg",
+        "https://t.vndb.org/sf/15/91115.jpg",
+        "https://t.vndb.org/sf/17/91117.jpg",
+        "https://t.vndb.org/sf/18/91118.jpg",
+        "https://t.vndb.org/sf/19/91119.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/恋×シンアイ彼女",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q38276384",
+          "name": "wikidata"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/80/81680.jpg",
+      "title": "Koi x Shin Ai Kanojo"
     }
   ]
 }
