@@ -576,10 +576,15 @@
           1741154623,
           1741154783,
           153
+        ],
+        [
+          1741701973,
+          1741702036,
+          53
         ]
       ],
       "expectedPlayHours": 30,
-      "lastPlay": 1741154783000,
+      "lastPlay": 1741702036000,
       "createDate": 1741154615499,
       "releaseDate": 1446163200000,
       "rating": 7.5,
@@ -651,9 +656,15 @@
         "Classic Tsundere Heroine",
         "Sickly Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1741702071,
+          1741702560,
+          486
+        ]
+      ],
       "expectedPlayHours": 28.6,
-      "lastPlay": 0,
+      "lastPlay": 1741702560000,
       "createDate": 1741701009344,
       "releaseDate": 1501200000000,
       "rating": 7.9,
