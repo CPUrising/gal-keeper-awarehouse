@@ -384,12 +384,12 @@
         ],
         [
           1741697823,
-          1741700810,
-          2635
+          1741700841,
+          2664
         ]
       ],
       "expectedPlayHours": 19,
-      "lastPlay": 1741700810000,
+      "lastPlay": 1741700841000,
       "createDate": 1740840233764,
       "releaseDate": 1522368000000,
       "rating": 7.5,
@@ -608,6 +608,80 @@
       ],
       "cover": "https://t.vndb.org/cv/80/81680.jpg",
       "title": "Koi x Shin Ai Kanojo"
+    },
+    {
+      "id": "bd43c02d-3633-4807-8443-d90eb353ff22",
+      "vndbId": "v20860",
+      "updateDate": 1741701009.344,
+      "alias": [
+        "景の海のアペイリア",
+        "빛의 바다의 아페이리아",
+        "景之海的艾佩莉娅"
+      ],
+      "description": "\"I don't know where you are, I don't remember your face or name. I don't even know if you really exist. But I promise I will find you.\"\n\"This mail was sent from the future...\"\n\nWinter, year 2045. Kirishima Reiichi, who belongs to the AI research club, had finally succeed in developing an artificial intelligence called \"Apeiria\".\n\nUsing the functions of Apeiria, he made the technology called \"VRMMO: the virtual world\", which is a fusion of magic, science and all those things from the books. However, VRMMO was a dangerous game with no control. Unfortunately, Apeiria was captured in the virtual world.\n\nNow the protagonist and his friends: his step sister Miu, a rude girl with no friends, his kouhai Mashiro, which wants to be his \"slave\" and Kuon, a girl with a kind personality, who had chuunibyou syndrome two years ago have to rescue Apeiria from the virtual world. This is story about love, youth and science.\n\n[From [url=http://www.getchu.com/soft.phtml?id=949419]Getchu[/url]]",
+      "tags": [
+        "Single Ending",
+        "Sex Under the Necessity",
+        "Artificial Intelligence",
+        "Virtual Reality",
+        "One True End",
+        "Science Fantasy",
+        "AI Protagonist",
+        "Battle of Wits",
+        "Perverted Protagonist",
+        "Infodumping",
+        "Mystery",
+        "Hard Science Fiction",
+        "Imouto-type Heroine",
+        "Time Loop",
+        "Unavoidable Harem Ending",
+        "Few Choices",
+        "AI Heroine",
+        "Multiple Route Mystery",
+        "White Haired Heroine",
+        "Comedy",
+        "ADV",
+        "High School",
+        "Non-blood-related Brother/Sister Incest",
+        "Oneesan-type Heroine",
+        "Male Protagonist",
+        "Amnesia",
+        "Loli Heroine",
+        "Life and Death Drama",
+        "Classic Tsundere Heroine",
+        "Sickly Heroine"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 28.6,
+      "lastPlay": 0,
+      "createDate": 1741701009344,
+      "releaseDate": 1501200000000,
+      "rating": 7.9,
+      "developer": "Silky's Plus DOLCE",
+      "images": [
+        "https://t.vndb.org/sf/71/104771.jpg",
+        "https://t.vndb.org/sf/72/104772.jpg",
+        "https://t.vndb.org/sf/73/104773.jpg",
+        "https://t.vndb.org/sf/74/104774.jpg",
+        "https://t.vndb.org/sf/62/109462.jpg",
+        "https://t.vndb.org/sf/63/109463.jpg",
+        "https://t.vndb.org/sf/64/109464.jpg",
+        "https://t.vndb.org/sf/65/109465.jpg",
+        "https://t.vndb.org/sf/13/173913.jpg",
+        "https://t.vndb.org/sf/14/173914.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/景の海のアペイリア",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q30930438"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/37/89537.jpg",
+      "title": "Hikari no Umi no Apeiria"
     }
   ]
 }
