@@ -838,10 +838,15 @@
           1756388322,
           1756388327,
           5
+        ],
+        [
+          1756391782,
+          1756391950,
+          167
         ]
       ],
       "expectedPlayHours": 19.5,
-      "lastPlay": 1756388327000,
+      "lastPlay": 1756391950000,
       "createDate": 1756386378946,
       "releaseDate": 1753401600000,
       "rating": 7.2,
@@ -1980,21 +1985,117 @@
     },
     {
       "id": "0a911a76-0ce3-40e4-8b65-068e44c666a8",
-      "updateDate": 1756391642.86,
-      "alias": [],
-      "description": "",
-      "tags": [],
-      "playTimelines": [],
-      "expectedPlayHours": 0,
-      "lastPlay": 0,
+      "vndbId": "v19073",
+      "updateDate": 1756391770.535,
+      "alias": [
+        "Senren＊Banka",
+        "千恋＊万花",
+        "천연만화 (Senren * Banka)",
+        "千恋＊万花",
+        "千戀＊萬花"
+      ],
+      "description": "The village of Hoori lies deep in the middle of the mountains, inaccessible by rail. Since there isn’t much interaction with its surroundings, the town seems like it is stuck in the past. However, it is because of this exact olden feel and subsequent development that it has turned into a nice hot-springs town for tourists.\n\nOne of the popular sightseeing spots is the legendary katana Murasamemaru, embedded in stone. No one has been able to pull it out… until Masaomi somehow broke it in half. He has to take responsibility for his actions: “Marriage” with ‘shrine maiden princess’ Yoshino!? He was perplexed at the unexpected turn of events, but this is only just the beginning. What lies ahead for him is a much more peculiar and mysterious life, including his new fiancée, a mysterious girl who only he could touch, and the secret behind the curse that remains on the town.\n\nWhat will become of Masaomi’s love amidst his rapidly changing life? The answer lies within the Murasamemaru in his hands.\n\n[From [url=https://omochikaeri.wordpress.com/2016/07/28/july-2016-eroge-releases/]Hau~ Omochikaeri![/url]]",
+      "tags": [
+        "Romance",
+        "Built-in Flowchart",
+        "Multiple Endings",
+        "Unlockable Epilogue",
+        "Sex with Protagonist Only",
+        "Curse",
+        "Shinto Shrine",
+        "Multiple Route Mystery",
+        "Varying Ending Songs",
+        "Male Protagonist",
+        "Super Deformed CGs",
+        "Only Virgin Heroines",
+        "Fantasy",
+        "Only Good Endings",
+        "Grandfather Support Character",
+        "ADV",
+        "Slice of Life Comedy",
+        "Defloration",
+        "Single Blowjob",
+        "Vaginal Masturbation",
+        "Episodic Story",
+        "Track Display",
+        "Skip Scenes",
+        "Under the Same Roof",
+        "Long Sexual Scenes",
+        "Protagonist's Fiancee as a Heroine",
+        "Arranged Marriage",
+        "Miko Heroine",
+        "Sentient Weapon Heroine",
+        "Read Text Marking"
+      ],
+      "playTimelines": [
+        [
+          1756391661,
+          1756391746,
+          82
+        ]
+      ],
+      "expectedPlayHours": 45.8,
+      "lastPlay": 1756391746000,
       "createDate": 1756391642860,
-      "releaseDate": 0,
-      "rating": 0,
-      "developer": "",
-      "images": [],
-      "links": [],
-      "cover": "",
-      "title": " Senren Banka Steam Edition"
+      "releaseDate": 1469750400000,
+      "rating": 7.7,
+      "developer": "Yuzusoft",
+      "images": [
+        "https://t.vndb.org/sf/37/96737.jpg",
+        "https://t.vndb.org/sf/38/96738.jpg",
+        "https://t.vndb.org/sf/39/96739.jpg",
+        "https://t.vndb.org/sf/40/96740.jpg",
+        "https://t.vndb.org/sf/41/96741.jpg",
+        "https://t.vndb.org/sf/42/96742.jpg",
+        "https://t.vndb.org/sf/43/96743.jpg",
+        "https://t.vndb.org/sf/44/96744.jpg",
+        "https://t.vndb.org/sf/45/96745.jpg",
+        "https://t.vndb.org/sf/46/96746.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/千恋*万花"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q24870257"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/senrenbanka-a-thousand-colors-of-love"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/187947-"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/63196"
+        },
+        {
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=104811"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=75341"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/senren-banka"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Senren_*_Banka"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/senren-star-banka"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/46/80746.jpg",
+      "title": "Senren * Banka"
     }
   ]
 }
