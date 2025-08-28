@@ -1825,12 +1825,12 @@
       "playTimelines": [
         [
           1756391313,
-          1756391350,
-          35
+          1756391626,
+          224
         ]
       ],
       "expectedPlayHours": 5.3,
-      "lastPlay": 1756391350000,
+      "lastPlay": 1756391626000,
       "createDate": 1756391241819,
       "releaseDate": 1487894400000,
       "rating": 6.4,
@@ -1977,6 +1977,24 @@
       ],
       "cover": "https://t.vndb.org/cv/27/81627.jpg",
       "title": "Hamidashi Creative"
+    },
+    {
+      "id": "0a911a76-0ce3-40e4-8b65-068e44c666a8",
+      "updateDate": 1756391642.86,
+      "alias": [],
+      "description": "",
+      "tags": [],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1756391642860,
+      "releaseDate": 0,
+      "rating": 0,
+      "developer": "",
+      "images": [],
+      "links": [],
+      "cover": "",
+      "title": " Senren Banka Steam Edition"
     }
   ]
 }
