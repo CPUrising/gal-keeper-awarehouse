@@ -1562,9 +1562,15 @@
         "Colored Texts",
         "Clothed Male Naked Female"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756441925,
+          1756442191,
+          264
+        ]
+      ],
       "expectedPlayHours": 12.5,
-      "lastPlay": 0,
+      "lastPlay": 1756442191000,
       "createDate": 1756391099426,
       "releaseDate": 1580428800000,
       "rating": 6.9,
