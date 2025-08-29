@@ -1385,9 +1385,15 @@
         "Other Perspectives",
         "Protagonist with a Face"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756441778,
+          1756441880,
+          101
+        ]
+      ],
       "expectedPlayHours": 41.3,
-      "lastPlay": 0,
+      "lastPlay": 1756441880000,
       "createDate": 1756390965349,
       "releaseDate": 1385683200000,
       "rating": 7.2,
@@ -1751,12 +1757,12 @@
       "playTimelines": [
         [
           1756440078,
-          1756441591,
-          1494
+          1756441767,
+          1667
         ]
       ],
       "expectedPlayHours": 5.3,
-      "lastPlay": 1756441591000,
+      "lastPlay": 1756441767000,
       "createDate": 1756391166528,
       "releaseDate": 1487894400000,
       "rating": 6.4,
