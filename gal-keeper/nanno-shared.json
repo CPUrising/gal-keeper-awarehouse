@@ -791,7 +791,7 @@
     {
       "id": "589c7f05-1450-44a7-baa0-696a14593b8c",
       "vndbId": "v53486",
-      "updateDate": 1756386378.946,
+      "updateDate": 1756440010.194,
       "alias": [
         "廃村少女［弐］　～陰り誘う秘姫の匣～"
       ],
@@ -854,7 +854,7 @@
       "images": [],
       "links": [],
       "cover": "https://t.vndb.org/cv/30/103430.jpg",
-      "title": "Haison Shoujo [Ni] ~Kageri Sasou Hime no Hako~"
+      "title": "廃村少女［弐］ ～陰り誘う秘姫の匣～"
     },
     {
       "id": "ae3ab783-b4bc-452e-a2ae-b79fa301e48b",
@@ -1146,7 +1146,7 @@
     {
       "id": "47452b71-71cb-4a2f-a833-9040d8f87b05",
       "vndbId": "v54776",
-      "updateDate": 1756388977.94,
+      "updateDate": 1756439989.643,
       "alias": [
         "すれ違う兄妹の壊れる倫理観"
       ],
@@ -1190,7 +1190,7 @@
       ],
       "links": [],
       "cover": "https://t.vndb.org/cv/06/103606.jpg",
-      "title": "Surechigau Kyoudai no Kowareru Rinrikan"
+      "title": "兄妹の壊れる倫理観"
     },
     {
       "id": "6a6c941b-bf70-496e-8259-0aab97fe73a8",
@@ -1286,7 +1286,7 @@
     {
       "id": "75983f60-5af9-4e92-8b37-92ef9731dea0",
       "vndbId": "v23388",
-      "updateDate": 1756390929.95,
+      "updateDate": 1756439965.699,
       "alias": [
         "出会って5分は俺のもの！ 時間停止と不可避な運命",
         "5分钟的邂逅！时间停止与不可避免的命运"
@@ -1342,12 +1342,12 @@
       ],
       "links": [],
       "cover": "https://t.vndb.org/cv/93/89193.jpg",
-      "title": "Deatte 5-fun wa Ore no Mono! Jikan Teishi to Atropos"
+      "title": "相见5分属于我！ 时间停止和不可避的命运"
     },
     {
       "id": "5e3a3772-0296-4529-a198-9b9548a2f6b5",
       "vndbId": "v13260",
-      "updateDate": 1756391032.786,
+      "updateDate": 1756439946.243,
       "alias": [
         "妹のおかげでモテすぎてヤバい。",
         "因为妹妹让我太受欢迎了糟糕了"
@@ -1415,7 +1415,7 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/38/89538.jpg",
-      "title": "Imouto no Okage de Motesugite Yabai."
+      "title": "因为妹妹太受欢迎了糟糕了。"
     },
     {
       "id": "0f3d26ec-e90c-4caf-83be-ffcec156aae7",
@@ -1516,7 +1516,7 @@
     {
       "id": "42759f31-a966-435c-b6dd-b215ddfff782",
       "vndbId": "v26581",
-      "updateDate": 1756391099.426,
+      "updateDate": 1756439910.916,
       "alias": [
         "Amairo Chocolate",
         "あまいろショコラータ",
@@ -1614,7 +1614,7 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/56/76856.jpg",
-      "title": "Amairo Chocolata"
+      "title": "巧克甜恋"
     },
     {
       "id": "59755c96-e903-4210-8295-f7e658615f23",
@@ -1748,9 +1748,15 @@
         "Missionary Position",
         "Long Sexual Scenes"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756440078,
+          1756440091,
+          14
+        ]
+      ],
       "expectedPlayHours": 5.3,
-      "lastPlay": 0,
+      "lastPlay": 1756440091000,
       "createDate": 1756391166528,
       "releaseDate": 1487894400000,
       "rating": 6.4,
@@ -2111,7 +2117,7 @@
     {
       "id": "51d57913-1253-4320-a055-414949cbc9d2",
       "vndbId": "v24208",
-      "updateDate": 1756397619.509,
+      "updateDate": 1756439879.299,
       "alias": [
         "Christmas Tina: Ephemeral Views of Winter",
         "Christmas Tina ‐泡沫冬景‐",
@@ -2192,12 +2198,12 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/45/83245.jpg",
-      "title": "Christmas Tina -Utakata Toukei-"
+      "title": "泡沫冬景"
     },
     {
       "id": "a3589aa4-dc1a-476f-bcd7-e2c6dc530613",
       "vndbId": "v33175",
-      "updateDate": 1756397643.056,
+      "updateDate": 1756439862.739,
       "alias": [
         "ジュエリー・ハーツ・アカデミア -We will wing wonder world-",
         "宝石心学院"
@@ -2256,7 +2262,7 @@
       ],
       "links": [],
       "cover": "https://t.vndb.org/cv/41/76841.jpg",
-      "title": "Jewelry Hearts Academia -We will wing wonder world-"
+      "title": "霞流宝石心 -壮志凌云振寰宇"
     }
   ]
 }
