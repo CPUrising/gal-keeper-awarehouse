@@ -1751,12 +1751,12 @@
       "playTimelines": [
         [
           1756440078,
-          1756440691,
-          606
+          1756440991,
+          902
         ]
       ],
       "expectedPlayHours": 5.3,
-      "lastPlay": 1756440691000,
+      "lastPlay": 1756440991000,
       "createDate": 1756391166528,
       "releaseDate": 1487894400000,
       "rating": 6.4,
