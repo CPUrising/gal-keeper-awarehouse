@@ -1324,9 +1324,15 @@
         "Protagonist with a Face",
         "Central Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756442388,
+          1756442491,
+          102
+        ]
+      ],
       "expectedPlayHours": 26.6,
-      "lastPlay": 0,
+      "lastPlay": 1756442491000,
       "createDate": 1756390929950,
       "releaseDate": 1540512000000,
       "rating": 7.4,
@@ -1565,12 +1571,12 @@
       "playTimelines": [
         [
           1756441925,
-          1756442191,
-          264
+          1756442366,
+          435
         ]
       ],
       "expectedPlayHours": 12.5,
-      "lastPlay": 1756442191000,
+      "lastPlay": 1756442366000,
       "createDate": 1756391099426,
       "releaseDate": 1580428800000,
       "rating": 6.9,
