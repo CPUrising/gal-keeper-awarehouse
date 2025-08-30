@@ -977,10 +977,15 @@
           1756568368,
           1756592478,
           23728
+        ],
+        [
+          1756596940,
+          1756597391,
+          448
         ]
       ],
       "expectedPlayHours": 35.8,
-      "lastPlay": 1756592478000,
+      "lastPlay": 1756597391000,
       "createDate": 1756386614665,
       "releaseDate": 1600992000000,
       "rating": 8.1,
@@ -2472,6 +2477,96 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/44/107844.jpg",
       "title": "Starlight Blue ~Osananajimi de Oshi no Ko ga Shiranai Uchi ni Kaihatsu Sareteita~"
+    },
+    {
+      "id": "0522a2db-57b8-4ba0-8725-200fab85d318",
+      "vndbId": "v13325",
+      "updateDate": 1756596883.65,
+      "alias": [
+        "Clover Day's",
+        "幸运草的约定",
+        "幸運草的約定"
+      ],
+      "description": "Bottled-up emotions...\nAn everlasting oath...\nHeartfelt desires...\nAn enduring regret...\nAnd a childhood promise.\n\nYuuto was abandoned by his parents and raised in an orphanage in Britain before a trading merchant by the name of Takakura Yoshiomi adopted him and brought him to Japan.\n\nHe could barely speak the language, but he had the support and love of his two new sisters, the cheery yet shy Anzu, and the calm, collected Anri.\nDuring his time in elementary school, he also made new friends: the ingenuous and kind Tsubame, and the ostentatious but guarded Izumi.\n\nThey were young and oblivious to love back then. They laughed together, cried together, and nurtured irreplaceable bonds with one another.\n\nTen years later...\n\nThe landscape of the town has changed, and so have they.\n\nYet some things never do change, no matter how much time passes.\n\n\"Do you still remember the promise we made that day?\"\n\nTen years ago, during their childhood, there was another pair of twins that they all played with.\nHekiru and Hikaru reappear and the emotions that have since frozen in time are now rekindled.\nThis marks the beginning of their resplendent time together, their \"Clover Days.\"\n\n[From [url=http://cloverdays.nekonyansoft.com/story.html]NekoNyan[/url]]",
+      "tags": [
+        "Group of Friends",
+        "Sex Scene Recollection",
+        "Romance",
+        "Comedy",
+        "Multiple Endings",
+        "Twin Sisters as Heroines",
+        "Floating Textbox",
+        "Male Protagonist",
+        "Non-blood-related Brother/Sister Incest",
+        "Love Triangle",
+        "Colored Texts",
+        "Modern Day Japan",
+        "Deredere Heroine",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Long Sexual Scenes",
+        "Sex with Protagonist Only",
+        "Protagonist's Younger Sister as a Heroine",
+        "Only Good Endings",
+        "Protagonist's Non-blood-related Sister as a Heroine",
+        "Orphan Protagonist",
+        "Few Choices",
+        "Only Virgin Heroines",
+        "Reunion",
+        "Childhood Promise",
+        "Defloration",
+        "Siscon Protagonist",
+        "Varied Title Screens",
+        "Shimaidon with Twins Ending",
+        "Flashback",
+        "Modern Tsundere Heroine"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 43.8,
+      "lastPlay": 0,
+      "createDate": 1756596852189,
+      "releaseDate": 1395964800000,
+      "rating": 7.6,
+      "developer": "ALcot",
+      "images": [
+        "https://t.vndb.org/sf/45/67245.jpg",
+        "https://t.vndb.org/sf/46/67246.jpg",
+        "https://t.vndb.org/sf/47/67247.jpg",
+        "https://t.vndb.org/sf/48/67248.jpg",
+        "https://t.vndb.org/sf/49/67249.jpg",
+        "https://t.vndb.org/sf/27/71127.jpg",
+        "https://t.vndb.org/sf/28/71128.jpg",
+        "https://t.vndb.org/sf/29/71129.jpg",
+        "https://t.vndb.org/sf/30/71130.jpg",
+        "https://t.vndb.org/sf/31/71131.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/Clover_Day's"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q16886865"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=131154"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/clover-days-plus"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/clover-days-plus"
+        },
+        {
+          "name": "wine",
+          "url": "https://appdb.winehq.org/appview.php?iAppId=16099"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/50/94750.jpg",
+      "title": "幸运草的约定HD（Clover Day's Plus HD）"
     }
   ]
 }
