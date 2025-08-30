@@ -2440,9 +2440,15 @@
         "ADV",
         "Nukige"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756560900,
+          1756561105,
+          198
+        ]
+      ],
       "expectedPlayHours": 0,
-      "lastPlay": 0,
+      "lastPlay": 1756561105000,
       "createDate": 1756560868749,
       "releaseDate": 1756425600000,
       "rating": 0,
