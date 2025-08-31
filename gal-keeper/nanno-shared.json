@@ -401,10 +401,15 @@
           1756618855,
           1756618978,
           82
+        ],
+        [
+          1756619465,
+          1756619966,
+          499
         ]
       ],
       "expectedPlayHours": 19,
-      "lastPlay": 1756618978000,
+      "lastPlay": 1756619966000,
       "createDate": 1740840233764,
       "releaseDate": 1522368000000,
       "rating": 7.5,
@@ -2632,9 +2637,15 @@
         "Comedy",
         "No Common Sense Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756619370,
+          1756619429,
+          59
+        ]
+      ],
       "expectedPlayHours": 25.2,
-      "lastPlay": 0,
+      "lastPlay": 1756619429000,
       "createDate": 1756619010110,
       "releaseDate": 1466726400000,
       "rating": 7.4,
