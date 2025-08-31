@@ -290,7 +290,7 @@
     {
       "id": "31ade9a9-eafd-4b6a-a609-8bcc1d9c4363",
       "vndbId": "v22045",
-      "updateDate": 1740840233.764,
+      "updateDate": 1756618852.935,
       "alias": [
         "かりぐらし恋愛",
         "寄宿之恋"
@@ -396,10 +396,15 @@
           1741867935,
           1741870301,
           2348
+        ],
+        [
+          1756618855,
+          1756618978,
+          82
         ]
       ],
       "expectedPlayHours": 19,
-      "lastPlay": 1741870301000,
+      "lastPlay": 1756618978000,
       "createDate": 1740840233764,
       "releaseDate": 1522368000000,
       "rating": 7.5,
@@ -435,7 +440,7 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/21/89121.jpg",
-      "title": "Karigurashi Ren'ai"
+      "title": "寄宿之恋"
     },
     {
       "id": "d3a9bf6b-f6f4-4fe4-8643-da3eed68f48e",
@@ -2578,6 +2583,97 @@
       ],
       "cover": "https://t.vndb.org/cv/50/94750.jpg",
       "title": "幸运草的约定HD（Clover Day's Plus HD）"
+    },
+    {
+      "id": "3f2d469d-f811-4409-9815-add0520c52a1",
+      "vndbId": "v18149",
+      "updateDate": 1756619031.775,
+      "alias": [
+        "Otome * Domain",
+        "オトメ＊ドメイン",
+        "少女＊领域",
+        "少女＊領域"
+      ],
+      "description": "After his grandmother passes away, Minato finds himself all alone, not knowing what to do next.\n\nA rich girl his age offers to take responsibility for him, providing him a new home at the all-girls academy she runs. His options exhausted, he accepts his new school uniform – skirt, blouse, and all – and moves into the dorms at once.\n\nIt turns out his provider and dormmate, however, is a little off...\n\n\"Minato, I can’t find my change of panties... Guess I’ll be going commando for today.\"\n\n\"I’ll get you some, so stay right there! You can’t go out looking like that?!\"\n\n...Just who is taking care of whom exactly? Why does it feel like he’s the one adopting her?!\n\n[From [url=https://www.johren.games/games/download/otome-domain-en-zh//]Johren Store[/url]]",
+      "tags": [
+        "ADV",
+        "Early Sexual Content",
+        "Under the Same Roof",
+        "Only Virgin Heroines",
+        "Varied Title Screens",
+        "Sprite Viewer",
+        "Trap on Female",
+        "Cross-dressing",
+        "Trap Protagonist",
+        "All-girls School",
+        "Protagonist with Voice Acting",
+        "Slice of Life",
+        "Multiple Endings",
+        "Proactive Protagonist",
+        "Super Deformed CGs",
+        "School Dormitory",
+        "Ejaculation Forewarner",
+        "Naked Sprites",
+        "Free Camera",
+        "Only Good Endings",
+        "Protagonist with a Sprite",
+        "Bonus Side Stories",
+        "Background Moans",
+        "Ojousama Heroine",
+        "Protagonist with a Face",
+        "Backlog Jump",
+        "Protagonist as the Only Male",
+        "Chuunibyou Heroine",
+        "Comedy",
+        "No Common Sense Heroine"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 25.2,
+      "lastPlay": 0,
+      "createDate": 1756619010110,
+      "releaseDate": 1466726400000,
+      "rating": 7.4,
+      "developer": "Palette Qualia",
+      "images": [
+        "https://t.vndb.org/sf/49/96149.jpg",
+        "https://t.vndb.org/sf/50/96150.jpg",
+        "https://t.vndb.org/sf/51/96151.jpg",
+        "https://t.vndb.org/sf/52/96152.jpg",
+        "https://t.vndb.org/sf/53/96153.jpg",
+        "https://t.vndb.org/sf/54/96154.jpg",
+        "https://t.vndb.org/sf/92/106592.jpg",
+        "https://t.vndb.org/sf/56/106956.jpg",
+        "https://t.vndb.org/sf/57/106957.jpg",
+        "https://t.vndb.org/sf/58/106958.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/オトメ*ドメイン"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q24868578"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/otome-domain"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=120758"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/otome-domain"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/otome-domain"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/54/79754.jpg",
+      "title": "少女 * 领域"
     }
   ]
 }
