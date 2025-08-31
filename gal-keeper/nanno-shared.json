@@ -2352,7 +2352,7 @@
     {
       "id": "a3589aa4-dc1a-476f-bcd7-e2c6dc530613",
       "vndbId": "v33175",
-      "updateDate": 1756439862.739,
+      "updateDate": 1756629039.112,
       "alias": [
         "ジュエリー・ハーツ・アカデミア -We will wing wonder world-",
         "宝石心学院"
@@ -2395,10 +2395,15 @@
           1756616819,
           1756617489,
           631
+        ],
+        [
+          1756628998,
+          1756629016,
+          12
         ]
       ],
       "expectedPlayHours": 40.9,
-      "lastPlay": 1756617489000,
+      "lastPlay": 1756629016000,
       "createDate": 1756397643056,
       "releaseDate": 1659052800000,
       "rating": 8.1,
