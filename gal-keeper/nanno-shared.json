@@ -2991,6 +2991,89 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/72/41472.jpg",
       "title": "天降虚拟偶像"
+    },
+    {
+      "id": "bb98b32a-346e-4e58-a577-cffba6190b89",
+      "vndbId": "v29444",
+      "updateDate": 1756695659.511,
+      "alias": [
+        "LUNARiA -Virtualized Moonchild-",
+        "恋月物语"
+      ],
+      "description": "The Moon and Earth: a love story spanning 384,400 kilometers.\n\nSkyout is a cutting-edge VR action-battle race.\nT-bit is not your ordinary high school student. He's also an undefeated genius gamer.\nDay in and day out, he logs into Skyout, winning lots of prize money.\n\nBut one day he ends up wandering into a mysterious area.\nLunar World, a Moon server whose existence no one knows about.\nThere T-bit meets an AI avatar who introduces herself as LUNAR-Q.\n\nIt turns out that she's a rejected mascot character for a lunar terraforming project, and she dreams of seeing the Earth some day...\n\n[From [url=https://key.visualarts.gr.jp/kinetic/product.html]Key[/url]]",
+      "tags": [
+        "AI Heroine",
+        "Virtual Reality",
+        "Gamer Heroine",
+        "Competition",
+        "Near Future",
+        "Gamer Protagonist",
+        "Long-distance Relationship",
+        "ADV",
+        "Male Protagonist",
+        "Protagonist with Voice Acting",
+        "No Sexual Content",
+        "Trap Support Character",
+        "Pure Love Story",
+        "Nakige",
+        "Kinetic Novel",
+        "Protagonist with a Face",
+        "Side Portraits",
+        "Gamer Hero",
+        "Only Good Endings",
+        "High School Student Protagonist",
+        "Moon",
+        "Hacker Hero",
+        "Half-orphan Heroine",
+        "Gaming",
+        "Heroine with Heterochromia"
+      ],
+      "playTimelines": [
+        [
+          1756695668,
+          1756695703,
+          35
+        ],
+        [
+          1756695767,
+          1756695831,
+          65
+        ]
+      ],
+      "expectedPlayHours": 8.5,
+      "lastPlay": 1756695831000,
+      "createDate": 1756695659511,
+      "releaseDate": 1640304000000,
+      "rating": 7.5,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/09/157109.jpg",
+        "https://t.vndb.org/sf/10/157110.jpg",
+        "https://t.vndb.org/sf/11/157111.jpg",
+        "https://t.vndb.org/sf/01/173801.jpg",
+        "https://t.vndb.org/sf/02/173802.jpg",
+        "https://t.vndb.org/sf/04/173804.jpg",
+        "https://t.vndb.org/sf/45/200345.jpg",
+        "https://t.vndb.org/sf/46/200346.jpg",
+        "https://t.vndb.org/sf/47/200347.jpg",
+        "https://t.vndb.org/sf/48/200348.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Lunaria:_Virtualized_Moonchild"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q110990937"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/lunaria-virtualized-moonchild"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/10/86910.jpg",
+      "title": "LUNARiA -Virtualized Moonchild-"
     }
   ]
 }
