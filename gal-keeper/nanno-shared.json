@@ -2946,6 +2946,51 @@
       ],
       "cover": "https://t.vndb.org/cv/12/76812.jpg",
       "title": "废柴恶魔FD"
+    },
+    {
+      "id": "23f49cb3-c7b9-4908-a925-0b4bc4732516",
+      "vndbId": "v27748",
+      "updateDate": 1756694540.621,
+      "alias": [
+        "電子処女が現れた！ コマンド！？",
+        "天降虚拟偶像！ COMMAND！？"
+      ],
+      "description": "",
+      "tags": [
+        "ADV",
+        "Male Protagonist",
+        "Only Virgin Heroines",
+        "Only Good Endings",
+        "Pregnancy Good Ending",
+        "Single Ending",
+        "Only a Single Heroine",
+        "Kinetic Novel",
+        "Intercrural Sex",
+        "Sex with Protagonist Only"
+      ],
+      "playTimelines": [
+        [
+          1756694543,
+          1756694742,
+          197
+        ]
+      ],
+      "expectedPlayHours": 5,
+      "lastPlay": 1756694742000,
+      "createDate": 1756694531726,
+      "releaseDate": 1587686400000,
+      "rating": 6.8,
+      "developer": "AKABEiSOFT2",
+      "images": [
+        "https://t.vndb.org/sf/63/134263.jpg",
+        "https://t.vndb.org/sf/64/134264.jpg",
+        "https://t.vndb.org/sf/65/134265.jpg",
+        "https://t.vndb.org/sf/66/134266.jpg",
+        "https://t.vndb.org/sf/67/134267.jpg"
+      ],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/72/41472.jpg",
+      "title": "天降虚拟偶像"
     }
   ]
 }
