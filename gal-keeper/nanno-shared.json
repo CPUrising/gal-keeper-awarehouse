@@ -2336,10 +2336,15 @@
           1756825223,
           1756829134,
           3863
+        ],
+        [
+          1756854402,
+          1756854774,
+          323
         ]
       ],
       "expectedPlayHours": 9.4,
-      "lastPlay": 1756829134000,
+      "lastPlay": 1756854774000,
       "createDate": 1756397619509,
       "releaseDate": 1576800000000,
       "rating": 7.7,
@@ -3263,7 +3268,7 @@
     {
       "id": "42ed299b-2236-4392-9ea0-a0edf02e9053",
       "vndbId": "v21465",
-      "updateDate": 1756839716.647,
+      "updateDate": 1756839777.122,
       "alias": [
         "絆きらめく恋いろは",
         "牵绊闪耀的恋之伊吕波"
@@ -3345,7 +3350,7 @@
         }
       ],
       "cover": "https://t.vndb.org/cv/58/95258.jpg",
-      "title": "Kizuna Kirameku Koi Iroha"
+      "title": "牵绊闪耀的恋之伊吕波"
     }
   ]
 }
