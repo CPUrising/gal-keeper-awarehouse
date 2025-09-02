@@ -1285,9 +1285,15 @@
         "High School",
         "Naked Sprites"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756806014,
+          1756806330,
+          313
+        ]
+      ],
       "expectedPlayHours": 4,
-      "lastPlay": 0,
+      "lastPlay": 1756806330000,
       "createDate": 1756388977940,
       "releaseDate": 1745539200000,
       "rating": 6.6,
@@ -3096,12 +3102,12 @@
         ],
         [
           1756802231,
-          1756805730,
-          3433
+          1756805838,
+          3533
         ]
       ],
       "expectedPlayHours": 8.5,
-      "lastPlay": 1756805730000,
+      "lastPlay": 1756805838000,
       "createDate": 1756695659511,
       "releaseDate": 1640304000000,
       "rating": 7.5,
