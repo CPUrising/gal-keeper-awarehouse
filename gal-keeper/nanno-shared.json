@@ -3233,9 +3233,15 @@
         "Naizuri",
         "High School Student Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756839383,
+          1756839687,
+          301
+        ]
+      ],
       "expectedPlayHours": 22.2,
-      "lastPlay": 0,
+      "lastPlay": 1756839687000,
       "createDate": 1756835697564,
       "releaseDate": 1527206400000,
       "rating": 7,
@@ -3253,6 +3259,93 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/90/108390.jpg",
       "title": "与你相连的恋爱FLAG"
+    },
+    {
+      "id": "42ed299b-2236-4392-9ea0-a0edf02e9053",
+      "vndbId": "v21465",
+      "updateDate": 1756839716.647,
+      "alias": [
+        "絆きらめく恋いろは",
+        "牵绊闪耀的恋之伊吕波"
+      ],
+      "description": "Touki is a second-year student at Murakumo Academy who is training as a katana smith. He attracts a lot of attention since his ancestor was a famous katana smith, but due to a certain reason, he spent all his time playing with machines instead.\n\nThe appearance one day of the ‘goddess’ Ayase, who claimed to be the guardian deity of his family home, was the trigger for many fated meetings:\n\nThe black-haired transfer student Saya, who he met on a moonlit night.\n\nHis childhood friend Tsubaki, who is the school’s strongest swordswoman.\n\nHis kind kouhai Shion, who has a habit of breaking her weapons.\n\nThe full-of-curiosity ojousama Freesia, who is an aspiring blacksmith.\n\nThese meetings rekindled his passion for swordsmithing, and his special bonds with the girls grew stronger by way of the swords which he crafted for them.\n\n[From [url=https://omochikaeri.wordpress.com/2017/11/08/november-2017-eroge-releases/]Hau~ Omochikaeri~![/url]]",
+      "tags": [
+        "Defloration",
+        "Sex with Protagonist Only",
+        "Sword Combat",
+        "Action",
+        "Male Protagonist",
+        "Sword Wielding Heroine",
+        "Only Virgin Heroines",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Tournament",
+        "White Haired Heroine",
+        "Multiple Endings",
+        "Romance",
+        "Sword Wielding Protagonist",
+        "ADV",
+        "Marriage Ending",
+        "Future Japan",
+        "Near Future",
+        "Protagonist with Heterochromia",
+        "Few Choices",
+        "Voice Saving",
+        "Genius Heroine",
+        "Oneesan-type Heroine",
+        "Protagonist's Senpai as a Heroine",
+        "Ojousama Heroine",
+        "School Nurse Support Character",
+        "Protagonist's Kouhai as a Heroine",
+        "Other Perspectives",
+        "Infodumping",
+        "Foreigner Heroine",
+        "Built-in Encyclopedia"
+      ],
+      "playTimelines": [
+        [
+          1756839722,
+          1756839762,
+          40
+        ]
+      ],
+      "expectedPlayHours": 28.5,
+      "lastPlay": 1756839762000,
+      "createDate": 1756839716647,
+      "releaseDate": 1511481600000,
+      "rating": 7.5,
+      "developer": "CRYSTALiA",
+      "images": [
+        "https://t.vndb.org/sf/13/107313.jpg",
+        "https://t.vndb.org/sf/14/107314.jpg",
+        "https://t.vndb.org/sf/15/107315.jpg",
+        "https://t.vndb.org/sf/16/107316.jpg",
+        "https://t.vndb.org/sf/17/107317.jpg",
+        "https://t.vndb.org/sf/18/107318.jpg",
+        "https://t.vndb.org/sf/19/107319.jpg",
+        "https://t.vndb.org/sf/83/142983.jpg",
+        "https://t.vndb.org/sf/84/142984.jpg",
+        "https://t.vndb.org/sf/85/142985.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q62141313"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/214074-"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/252851-"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/kizuna-kirameku-koi-iroha"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/58/95258.jpg",
+      "title": "Kizuna Kirameku Koi Iroha"
     }
   ]
 }
