@@ -2321,9 +2321,20 @@
         "Half-orphan Protagonist",
         "Protagonist with a Sprite"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756814140,
+          1756814568,
+          328
+        ],
+        [
+          1756814613,
+          1756814721,
+          101
+        ]
+      ],
       "expectedPlayHours": 9.4,
-      "lastPlay": 0,
+      "lastPlay": 1756814721000,
       "createDate": 1756397619509,
       "releaseDate": 1576800000000,
       "rating": 7.7,
