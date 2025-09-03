@@ -2354,12 +2354,12 @@
         ],
         [
           1756884737,
-          1756884967,
-          227
+          1756885110,
+          366
         ]
       ],
       "expectedPlayHours": 9.4,
-      "lastPlay": 1756884967000,
+      "lastPlay": 1756885110000,
       "createDate": 1756397619509,
       "releaseDate": 1576800000000,
       "rating": 7.7,
@@ -3407,6 +3407,68 @@
       ],
       "cover": "https://t.vndb.org/cv/58/95258.jpg",
       "title": "牵绊闪耀的恋之伊吕波"
+    },
+    {
+      "id": "528cc0e4-70b8-490f-83a8-334649af8368",
+      "vndbId": "v37016",
+      "updateDate": 1756885262.84,
+      "alias": [
+        "Dreamlike Love with Seira",
+        "ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか",
+        "为主人献上圣罗的甜蜜侍奉",
+        "為主人獻上聖羅的甜蜜侍奉"
+      ],
+      "description": "Watari Haruto was having a strange dream, taking place in a large luxurious mansion, of which he seems to be the master.\n\nHe meets a beautiful maid, Seira. Her job consists of brewing tea, stress relief but -- she always ends up showing him her panties!?\n\n\"Seira, if you are a maid, then you must fulfill your master's commands, isn't that right?\"\n\n\"Uu... Master, if showing my panties will relieve your stress, then...\"\n\nThe gentle pushover maid Seira, and Haruto's lewd orders that she cannot disobey. A dream story full of healing, where you will be melted down by the sweetest of services!\n\n[From [url=https://rubisama.com/seira/]official site[/url], translated]",
+      "tags": [
+        "Romance",
+        "Maid Heroine",
+        "Male Protagonist",
+        "Only a Single Heroine",
+        "Kinetic Novel",
+        "Master and Servant",
+        "Dream",
+        "Heroine with Big Breasts",
+        "Imaginary Friend as a Heroine",
+        "ADV",
+        "No Voice Replay",
+        "100% Completion Bonus",
+        "Adult Protagonist",
+        "Salaryman Protagonist",
+        "Only Virgin Heroines",
+        "Has Window Transparency Setting",
+        "Western-style Manor",
+        "Defloration",
+        "Sounds of Copulation",
+        "Sex with Protagonist Only",
+        "University Student Heroine",
+        "Single Boobjob",
+        "Single Blowjob",
+        "Vaginal Masturbation",
+        "Vaginal Fingering",
+        "Varied Title Screens"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 3.3,
+      "lastPlay": 0,
+      "createDate": 1756885262840,
+      "releaseDate": 1657843200000,
+      "rating": 7,
+      "developer": "Rubi-sama o Agameru Kai",
+      "images": [
+        "https://t.vndb.org/sf/13/167913.jpg",
+        "https://t.vndb.org/sf/56/188456.jpg",
+        "https://t.vndb.org/sf/57/188457.jpg",
+        "https://t.vndb.org/sf/58/188458.jpg",
+        "https://t.vndb.org/sf/59/188459.jpg",
+        "https://t.vndb.org/sf/60/188460.jpg",
+        "https://t.vndb.org/sf/61/188461.jpg",
+        "https://t.vndb.org/sf/62/188462.jpg",
+        "https://t.vndb.org/sf/77/200477.jpg",
+        "https://t.vndb.org/sf/78/200478.jpg"
+      ],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/80/89680.jpg",
+      "title": "Goshujin-sama, Seira ni Yume Mitai na Icha Love Gohoushi Sasete Itadakemasu ka"
     }
   ]
 }
