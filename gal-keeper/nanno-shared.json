@@ -2866,9 +2866,15 @@
         "Homemaker Protagonist",
         "Few Choices"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756861175,
+          1756861365,
+          189
+        ]
+      ],
       "expectedPlayHours": 30.2,
-      "lastPlay": 0,
+      "lastPlay": 1756861365000,
       "createDate": 1756693225041,
       "releaseDate": 1443139200000,
       "rating": 7,
