@@ -3411,7 +3411,7 @@
     {
       "id": "528cc0e4-70b8-490f-83a8-334649af8368",
       "vndbId": "v37016",
-      "updateDate": 1756885262.84,
+      "updateDate": 1756886019.213,
       "alias": [
         "Dreamlike Love with Seira",
         "ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか",
@@ -3447,9 +3447,20 @@
         "Vaginal Fingering",
         "Varied Title Screens"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756886022,
+          1756886039,
+          16
+        ],
+        [
+          1756886096,
+          1756886168,
+          70
+        ]
+      ],
       "expectedPlayHours": 3.3,
-      "lastPlay": 0,
+      "lastPlay": 1756886168000,
       "createDate": 1756885262840,
       "releaseDate": 1657843200000,
       "rating": 7,
@@ -3468,7 +3479,7 @@
       ],
       "links": [],
       "cover": "https://t.vndb.org/cv/80/89680.jpg",
-      "title": "Goshujin-sama, Seira ni Yume Mitai na Icha Love Gohoushi Sasete Itadakemasu ka"
+      "title": "为主人献上圣罗的甜蜜侍奉"
     }
   ]
 }
