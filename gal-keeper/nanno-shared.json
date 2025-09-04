@@ -1538,10 +1538,15 @@
           1756985213,
           1756985248,
           34
+        ],
+        [
+          1756985306,
+          1756985320,
+          15
         ]
       ],
       "expectedPlayHours": 41.3,
-      "lastPlay": 1756985248000,
+      "lastPlay": 1756985320000,
       "createDate": 1756390965349,
       "releaseDate": 1385683200000,
       "rating": 7.2,
@@ -3539,6 +3544,69 @@
       "links": [],
       "cover": "\"D:\\documentation_1\\83025aafa40f4bfbfbed68fa15166ff0f736afc3b25e.webp\"",
       "title": "KANADE"
+    },
+    {
+      "id": "46890dd5-1c64-49eb-961c-4d69336b5e40",
+      "vndbId": "v18907",
+      "updateDate": 1756985760.734,
+      "alias": [
+        "A Sky Full of Stars -Fine Days-",
+        "見上げてごらん、夜空の星を FINE DAYS"
+      ],
+      "description": "This is the fandisc for \"Miagete Goran, Yozora no Hoshi o\" with after stories for each of the four heroines. There are also new routes for sub-heroines Honoka and Miharu, and a downloadable route for Hinami in late June.\n\n[From [url=https://omochikaeri.wordpress.com/2016/05/01/may-2016-eroge-releases/]Hau~ Omochikaeri![/url]]",
+      "tags": [
+        "Kinetic Novel",
+        "Super Deformed CGs",
+        "Backlog Jump",
+        "High School Student Heroine",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Astronomy Club",
+        "Romance",
+        "Male Protagonist",
+        "Countryside",
+        "ADV",
+        "Slice of Life",
+        "Heroine with Heterochromia",
+        "Pure Love Story",
+        "Defloration",
+        "Anal Penetration",
+        "Boobjob",
+        "Blowjob",
+        "Handjob",
+        "Masturbation",
+        "Lazy Heroine",
+        "Protagonist's Senpai as a Heroine",
+        "Teacher Heroine",
+        "Protagonist with a Face",
+        "Heroine with Zettai Ryouiki",
+        "Tomboy Heroine",
+        "Big Breast Sizes Heroine",
+        "Proactive Protagonist",
+        "Sex with Protagonist Only",
+        "Heroine with Big Breasts"
+      ],
+      "playTimelines": [
+        [
+          1756985770,
+          1756985870,
+          99
+        ]
+      ],
+      "expectedPlayHours": 18,
+      "lastPlay": 1756985870000,
+      "createDate": 1756985760734,
+      "releaseDate": 1464307200000,
+      "rating": 7.8,
+      "developer": "PULLTOP",
+      "images": [
+        "https://t.vndb.org/sf/33/139533.jpg",
+        "https://t.vndb.org/sf/34/139534.jpg",
+        "https://t.vndb.org/sf/35/139535.jpg",
+        "https://t.vndb.org/sf/36/139536.jpg"
+      ],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/53/101353.jpg",
+      "title": "Miagete Goran, Yozora no Hoshi o: Fine Days"
     }
   ]
 }
