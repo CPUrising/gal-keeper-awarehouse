@@ -2322,7 +2322,7 @@
     {
       "id": "51d57913-1253-4320-a055-414949cbc9d2",
       "vndbId": "v24208",
-      "updateDate": 1756439879.299,
+      "updateDate": 1757644289.949,
       "alias": [
         "Christmas Tina: Ephemeral Views of Winter",
         "Christmas Tina ‐泡沫冬景‐",
@@ -2411,10 +2411,15 @@
           1757543189,
           1757543205,
           15
+        ],
+        [
+          1757644292,
+          1757644401,
+          88
         ]
       ],
       "expectedPlayHours": 9.4,
-      "lastPlay": 1757543205000,
+      "lastPlay": 1757644401000,
       "createDate": 1756397619509,
       "releaseDate": 1576800000000,
       "rating": 7.7,
