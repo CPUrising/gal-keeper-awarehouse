@@ -3667,6 +3667,92 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/53/101353.jpg",
       "title": "Miagete Goran, Yozora no Hoshi o: Fine Days"
+    },
+    {
+      "id": "65d254c7-523d-480c-b061-2048bb07c3b0",
+      "vndbId": "v24208",
+      "updateDate": 1757643462.085,
+      "alias": [
+        "Christmas Tina: Ephemeral Views of Winter",
+        "Christmas Tina ‐泡沫冬景‐",
+        "泡沫冬景"
+      ],
+      "description": "It is the year 1988. Japan is in the midst of the bubble economy. New buildings are sprouting up everywhere, and the people are ecstatic.\n\nThe old disappears and the new is born, but there are some people, some places, some things, that nobody notices... or perhaps nobody chooses to notice them.\n\nThis is a story of people who live for one year... in such a little corner of the city.\n\nKanna is a first-year high school student who's involved in a traffic accident during the summer. She finds herself unable to stay in her hometown any longer.\n\nJing fails his university entrance exams in China. He spends a year or so working at a job he doesn't like.\n\nBoth of them hear of the incredible opportunities presenting themselves in the bubble economy of Tokyo. Therefore, Kanna drops out of high school and goes to Tokyo. Jing quits his job and goes to Japan.\n\nThe job both of them set their eyes on, would have them simply living in an old, run-down train station. Although the job only pays a measly 400 yen per hour, it runs for 24 hours a day, so it really isn't that bad. They wouldn't have to pay rent, heating, or electricity.\n\nKanna is a bit awkward around people, and Jing doesn't speak Japanese. The employer only wants one person. Neither wants to give up on this job, so the woman in charge recommends that they simply do it together...\n\n[From [url=https://www.mangagamer.com/detail.php?product_code=1243]MangaGamer[/url]]",
+      "tags": [
+        "Male Protagonist",
+        "Female Protagonist",
+        "Under the Same Roof",
+        "Episodic Story",
+        "The Holiday Season",
+        "Kinetic Novel",
+        "Winter",
+        "Foreigner Protagonist",
+        "80's",
+        "No Sexual Content",
+        "Other Perspectives",
+        "No Romance Plot",
+        "Protagonist with Voice Acting",
+        "Multiple Protagonists",
+        "Modern Day Japan",
+        "Terminal Illness",
+        "Friendship",
+        "Friendship Ending",
+        "ADV",
+        "NVL",
+        "Family",
+        "Protagonist's Sister as a Support Character",
+        "Cats",
+        "Cafe",
+        "Flashback",
+        "Protagonist with a Face",
+        "Desperation",
+        "Varied Title Screens",
+        "Half-orphan Protagonist",
+        "Protagonist with a Sprite"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 9.4,
+      "lastPlay": 0,
+      "createDate": 1757643462085,
+      "releaseDate": 1576800000000,
+      "rating": 7.7,
+      "developer": "Nekoday",
+      "images": [
+        "https://t.vndb.org/sf/40/141140.jpg",
+        "https://t.vndb.org/sf/41/141141.jpg",
+        "https://t.vndb.org/sf/42/141142.jpg",
+        "https://t.vndb.org/sf/43/141143.jpg",
+        "https://t.vndb.org/sf/44/141144.jpg",
+        "https://t.vndb.org/sf/45/141145.jpg",
+        "https://t.vndb.org/sf/46/141146.jpg",
+        "https://t.vndb.org/sf/47/141147.jpg",
+        "https://t.vndb.org/sf/38/154638.jpg",
+        "https://t.vndb.org/sf/39/154639.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q114889567"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=88006"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/christmas-tina"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Christmas_Tina_‐泡沫冬景‐"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/christmas-tina"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/45/83245.jpg",
+      "title": "Christmas Tina -Utakata Toukei-"
     }
   ]
 }
