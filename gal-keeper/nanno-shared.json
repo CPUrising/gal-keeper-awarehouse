@@ -1,5 +1,7 @@
 {
-  "deleteIds": [],
+  "deleteIds": [
+    "a1157cfb-b1b7-45a1-aae1-b97a3400d116"
+  ],
   "data": [
     {
       "id": "cf2c5b99-1713-40ee-85f9-61f455e21e89",
@@ -3840,6 +3842,118 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/90/86790.jpg",
       "title": "Neko-nin exHeart SPIN!"
+    },
+    {
+      "id": "007f5c80-1193-4143-94ee-58bc98544e78",
+      "vndbId": "v2016",
+      "bgmId": "3243",
+      "updateDate": 1757721689.086,
+      "alias": [
+        "装甲恶鬼村正",
+        "Full Metal Daemon Muramasa",
+        "装甲悪鬼村正",
+        "장갑악귀 무라마사"
+      ],
+      "description": "       战后六年，铠甲武装“劔胄”仍是最强的武器，劔胄持有者被称为“武者”。持有“妖甲”村正的非正式警察凑斗景明，不断作出杀人事件，对象不单是恶犯，无辜良民亦被一律灭口。只有他才知道此行动的原因……\r\n\r\n\r\n《装甲恶鬼村正》是Nitro+于2009年10月30日发售的日本成人游戏，Nitro+开业10周年纪念作，以刀剑、铠甲、机器人、反英雄为卖点。作品中的主要登场人物是Nitro+有史以来最多，如包含次要角色的话则会超过300人。铠甲型兵器“劔胄”则有45种和1种非正式劔胄，全部被制成3D。\r\n",
+      "tags": [
+        "剧情",
+        "なまにくATK",
+        "剧情作",
+        "哲学",
+        "机战",
+        "狂气",
+        "战争",
+        "致郁",
+        "战斗",
+        "善恶相抵",
+        "燃",
+        "R18",
+        "游戏",
+        "汉化",
+        "吃醋号",
+        "翼之梦汉化",
+        "2009",
+        "Nitroplus",
+        "ADV",
+        "萝卜",
+        "GAL",
+        "AVG",
+        "PC",
+        "超神作",
+        "N+",
+        "猎奇",
+        "神作",
+        "奈良原一鉄",
+        "Galgame",
+        "Nitro+"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 73.4,
+      "lastPlay": 0,
+      "createDate": 1757721689086,
+      "releaseDate": 1256860800000,
+      "rating": 8.6,
+      "developer": "NITRO PLUS",
+      "images": [
+        "https://t.vndb.org/sf/88/127288.jpg",
+        "https://t.vndb.org/sf/89/127289.jpg",
+        "https://t.vndb.org/sf/91/127291.jpg",
+        "https://t.vndb.org/sf/92/127292.jpg",
+        "https://t.vndb.org/sf/93/127293.jpg",
+        "https://t.vndb.org/sf/94/127294.jpg",
+        "https://t.vndb.org/sf/97/127297.jpg",
+        "https://t.vndb.org/sf/66/154866.jpg",
+        "https://t.vndb.org/sf/90/154990.jpg",
+        "https://t.vndb.org/sf/49/155449.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Full_Metal_Daemon:_Muramasa"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/装甲悪鬼村正"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5227007"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/full-metal-daemon-muramasa"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/971063-"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/7755"
+        },
+        {
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=2169"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=98366"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/full-metal-daemon-muramasa"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Full_Metal_Daemon_Muramasa"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/full-metal-daemon-muramasa"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/38/81/3243_kA5A1.jpg",
+      "title": "装甲悪鬼村正"
     }
   ]
 }
