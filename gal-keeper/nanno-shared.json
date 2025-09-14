@@ -3954,6 +3954,82 @@
       ],
       "cover": "https://lain.bgm.tv/pic/cover/l/38/81/3243_kA5A1.jpg",
       "title": "装甲悪鬼村正"
+    },
+    {
+      "id": "0e14b846-c7d5-4be6-84d3-d96543a3cc57",
+      "vndbId": "v14886",
+      "bgmId": "100308",
+      "updateDate": 1757732589.988,
+      "alias": [
+        "晴霁之后定是菜花盛开的好天气",
+        "Padang Bunga yang Bermekaran Selepas Hari Cerah",
+        "晴のちきっと菜の花びより",
+        "晴霁之后，定是菜花盛开的好天气"
+      ],
+      "description": "主人公・藤宮晴真 （ふじみや はるま） は、上奈木（かみなぎ）学園の2年生。\r\n進級が決まった春休み。 晴真は、原因不明の高熱を出して、一ヵ月もの間、入院してしまう。\r\nそして、5月──\r\n晴真の病気が完治して学園に復帰したものの、クラス替えをしたクラスメイトたちと馴染めず、晴真はクラスの中で浮いた存在になっていた。\r\n一方で、数日前に転校して来たばかりの菜乃花 （なのか） も、友達ができずにいた。\r\nふたりは席も近く、挨拶を交わし、お互いの身の上話をしているうちに、意気投合する。\r\nそして晴真は、菜乃花が “園芸部” に入部するつもりだったと知る。\r\nしかし、園芸部は、一年前に廃部になっていた。\r\n晴真は、菜乃花の望みを叶えてやるため、園芸部設立に向けて協力すると誓う。\r\nそれをきっかけに、晴真は多くの友達と出逢い、失った “一ヵ月の時間” を取り戻す。",
+      "tags": [
+        "催泪",
+        "小野凉子",
+        "R18",
+        "ちこたむ",
+        "三角恋",
+        "剧情作",
+        "北見六花",
+        "治愈",
+        "杏子御津",
+        "致郁",
+        "晴菜花",
+        "游戏",
+        "AVG",
+        "废萌",
+        "ADV",
+        "校园",
+        "小野涼子",
+        "PC",
+        "幼馴染",
+        "2014",
+        "GAL",
+        "汉化",
+        "門脇舞以",
+        "萝莉",
+        "暖人心田",
+        "强行催泪",
+        "比惨大会",
+        "幼驯染",
+        "Parasol",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 25.5,
+      "lastPlay": 0,
+      "createDate": 1757732573318,
+      "releaseDate": 1409270400000,
+      "rating": 6.4,
+      "developer": "Parasol",
+      "images": [
+        "https://t.vndb.org/sf/23/74423.jpg",
+        "https://t.vndb.org/sf/24/74424.jpg",
+        "https://t.vndb.org/sf/25/74425.jpg",
+        "https://t.vndb.org/sf/69/105569.jpg",
+        "https://t.vndb.org/sf/72/105572.jpg",
+        "https://t.vndb.org/sf/74/105574.jpg",
+        "https://t.vndb.org/sf/75/105575.jpg",
+        "https://t.vndb.org/sf/91/120391.jpg",
+        "https://t.vndb.org/sf/92/120392.jpg",
+        "https://t.vndb.org/sf/93/120393.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/晴のちきっと菜の花びより"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18458409"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/bc/f7/100308_OccMo.jpg",
+      "title": "晴のちきっと菜の花びより"
     }
   ]
 }
