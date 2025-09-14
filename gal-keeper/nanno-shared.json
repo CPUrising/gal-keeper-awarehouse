@@ -1,6 +1,7 @@
 {
   "deleteIds": [
-    "a1157cfb-b1b7-45a1-aae1-b97a3400d116"
+    "a1157cfb-b1b7-45a1-aae1-b97a3400d116",
+    "80bd0b7e-748a-46de-8643-166049d866e0"
   ],
   "data": [
     {
@@ -1189,7 +1190,7 @@
     {
       "id": "618f650e-20ce-48a4-9e74-e2aa3f1ba881",
       "vndbId": "v32811",
-      "updateDate": 1756386753.55,
+      "updateDate": 1757858030.898,
       "alias": [
         "Futamata Ren'ai: Two Times the Trouble",
         "フタマタ恋愛",
@@ -4030,6 +4031,89 @@
       ],
       "cover": "https://lain.bgm.tv/pic/cover/l/bc/f7/100308_OccMo.jpg",
       "title": "晴のちきっと菜の花びより"
+    },
+    {
+      "id": "bcc3fb05-38a5-40be-962c-ee9af95878ee",
+      "vndbId": "v7771",
+      "bgmId": "122158",
+      "updateDate": 1757857980.067,
+      "alias": [
+        "白色相簿2 mini After Story",
+        "WHITE ALBUM2",
+        "白色相簿2"
+      ],
+      "description": "Windows®用アドベンチャーゲーム『WHITE ALBUM2 ミニアフターストーリー』（丸戸史明書き下ろし）を応募者全員にプレゼントいたします。\r\n収録内容は下記の2本となり、ゲーム版のアフターストーリーをプレイできます。\r\n小木曽雪菜ミニアフターストーリー\r\n冬馬かずさミニアフターストーリー",
+      "tags": [
+        "2016",
+        "冬马",
+        "2014-12",
+        "治愈",
+        "视觉小说",
+        "恋爱",
+        "日本",
+        "甜",
+        "孩子不是亲生",
+        "短篇",
+        "白色相簿",
+        "神作",
+        "游戏",
+        "ADV",
+        "三角恋",
+        "アクアプラス",
+        "汉化",
+        "WA2",
+        "全年龄",
+        "GAL",
+        "Aquaplus",
+        "AVG",
+        "2014",
+        "PC",
+        "丸户史明",
+        "白色相簿2",
+        "FD",
+        "丸戸史明",
+        "leaf",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 79.2,
+      "lastPlay": 0,
+      "createDate": 1757857980067,
+      "releaseDate": 1419379200000,
+      "rating": 7.5,
+      "developer": "Leaf",
+      "images": [
+        "https://t.vndb.org/sf/75/26875.jpg",
+        "https://t.vndb.org/sf/75/181475.jpg",
+        "https://t.vndb.org/sf/77/181477.jpg",
+        "https://t.vndb.org/sf/78/181478.jpg",
+        "https://t.vndb.org/sf/79/181479.jpg",
+        "https://t.vndb.org/sf/80/181480.jpg",
+        "https://t.vndb.org/sf/59/213659.jpg",
+        "https://t.vndb.org/sf/61/213661.jpg",
+        "https://t.vndb.org/sf/44/214944.jpg",
+        "https://t.vndb.org/sf/45/214945.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/White_Album_2"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/WHITE_ALBUM2"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5960516"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/2508"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/39/6e/122158_VU66U.jpg",
+      "title": "WHITE ALBUM2 ミニアフターストーリー"
     }
   ]
 }
